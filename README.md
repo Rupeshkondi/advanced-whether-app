@@ -32,7 +32,7 @@ A responsive weather web application that provides **real-time weather updates**
 
 ## 📷 Screenshot
 
-![Weather App Screenshot](screenshot.png) <!-- Add this to your repo -->
+![Weather App Screenshot](https://github.com/Rupeshkondi/advanced-whether-app/blob/main/Screenshot%202025-07-20%20181510.png) 
 
 ---
 
